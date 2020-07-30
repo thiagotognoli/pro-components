@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[10],{"px/x":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),i=a("FlLn");t["default"]=()=>r.a.createElement(i["a"],{title:"\u6807\u9898",extra:"extra",tip:"\u8fd9\u662f\u63d0\u793a",style:{width:300},bordered:!0},"\u5185\u5bb9")}}]);

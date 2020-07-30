@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[15],{PZoR:function(t,e,a){"use strict";a.r(e);var n=a("q1tI"),o=a.n(n),r=a("FlLn");e["default"]=()=>o.a.createElement(r["a"],{title:"\u6807\u9898",extra:"extra",layout:"center",style:{width:300}},"\u5185\u5bb9\u5782\u76f4\u5c45\u4e2d")}}]);
